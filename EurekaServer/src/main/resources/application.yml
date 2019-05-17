@@ -1,0 +1,4 @@
+server.port: 1111 #这里是注册中心的端口号,可以自己改自己喜欢的
+eureka.client.register-with-eureka: false
+eureka.client.fetch-registry: false
+eureka.client.serviceUrl.defaultZone: http://localhost:1111/eureka/
