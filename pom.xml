@@ -10,6 +10,11 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>EurekaServer</module>
+        <module>OrderService1</module>
+        <module>OrderService2</module>
+        <module>ShareService</module>
+        <module>RibbonServer</module>
+        <module>ZuulServer</module>
     </modules>
 
 
